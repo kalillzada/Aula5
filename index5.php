@@ -78,7 +78,7 @@
     </header>
     <main>
         <section id="intro">
-            <h3 style ="text-align:center">A sua loja de quadrinhos</h3>
+            <h3 style ="text-align:center">Atividade Leandro</h3>
             <p  class="paragrafo-abnt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A sua loja centenária de quadrinhos
                 aora com sede em Bauru-SP, trazendo uma coletânea de mais de 15mil 
                 revistas, quadrinhos e mangás dos mais antigos aos mais recentes.
